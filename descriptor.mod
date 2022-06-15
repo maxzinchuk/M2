@@ -1,0 +1,16 @@
+version="1.11.*"
+tags={
+	"Alternative History"
+	"Events"
+	"Gameplay"
+	"Graphics"
+	"Map"
+	"Military"
+	"National Focuses"
+	"Technologies"
+	"Sound"
+	"Translation"
+	"Ideologies"
+}
+name="Mod1"
+supported_version="1.11.11"
